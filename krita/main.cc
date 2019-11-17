@@ -59,7 +59,7 @@
 #ifdef Q_OS_ANDROID
 #include <QtAndroid>
 #endif
-
+#include<iostream>
 #if defined Q_OS_WIN
 #include "config_use_qt_tablet_windows.h"
 #include <windows.h>
